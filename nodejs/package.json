@@ -1,0 +1,18 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "description": "some apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "author": "nodirbek",
+  "license": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "jquery": "^3.1.1",
+    "nunjucks": "^2.5.2"
+  }
+}
