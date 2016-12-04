@@ -1,0 +1,18 @@
+
+
+Motivated from:
+http://stackoverflow.com/questions/4647348/send-message-to-specific-client-with-socket-io-and-node-js
+
+
+How to run
+
+Install the required libraries:
+
+npm install socket.io
+npm install socket.io-client
+Run the server:
+
+node server
+Run every client in a separate console:
+
+node client
