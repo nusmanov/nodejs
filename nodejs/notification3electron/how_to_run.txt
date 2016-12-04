@@ -1,0 +1,14 @@
+
+
+Motivated by:
+https://github.com/mikaelbr/node-notifier
+
+
+How to run
+
+Install the required libraries:
+npm install --save node-notifier
+
+
+Start
+node app
