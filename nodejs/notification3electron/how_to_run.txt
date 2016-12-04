@@ -2,6 +2,8 @@
 
 Motivated by:
 https://github.com/mikaelbr/node-notifier
+http://ourcodeworld.com/articles/read/204/using-native-desktop-notification-with-electron-framework
+http://softwarerecs.stackexchange.com/questions/20441/can-i-create-a-node-js-desktop-application-which-runs-without-a-web-browser
 
 
 How to run
